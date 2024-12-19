@@ -118,7 +118,7 @@ const Register = () => {
       <div style={{ textAlign: "center" }}>
         <div style={{ width: "300px", margin: "0 auto", padding: "0px" }}>
           <div className="main">
-            <img src="ilm.png" alt="Logo" />
+            <img src="../images/ilm.png" alt="Logo" />
           </div>
         </div>
       </div>
